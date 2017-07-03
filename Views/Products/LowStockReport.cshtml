@@ -1,0 +1,87 @@
+﻿@model IEnumerable<SpeedoModels.Models.Product>
+
+@{
+    ViewBag.Title = "LowStockReport";
+}
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<a class="btn btn-app" href='@Url.Action("ExportAdminReportToPDF", "Products")'
+<i class="fa fa-file-excel-o"></i> Export to PDF
+    </a>
+
+<h2>Low Stock Report</h2>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            Product ID
+        </th>
+        <th>
+            Product Name
+        </th>
+        <th>
+            Product Description
+        </th>
+        <th>
+            Product Price
+        </th>
+        <th>
+            Product Colour
+        </th>
+        <th>
+            Product Stock
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+
+            <td>
+                @Html.DisplayFor(modelItem => item.productId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productColour)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.productStock)
+            </td>
+
+
+            @if (User.IsInRole("Administrator"))
+                {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.productId })
+                </td>
+
+            }
+
+
+
+        </tr>
+    }
+
+</table>
+<br />
+
+<div>
+    @Html.ActionLink("Back to Home", "Index")
+</div>

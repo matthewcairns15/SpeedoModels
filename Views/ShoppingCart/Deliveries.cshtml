@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Deliveries";
+}
+
+       @Html.ActionLink("First Class Fee £5.00", "FirstClass", "ShoppingCart");
+       @Html.ActionLink("Second Class", "AddToCart", "ShoppingCart");
+       @Html.ActionLink("Courier Fee £10", "AddToCart", "ShoppingCart");
+       @Html.ActionLink("Pick up", "Create", "Orders");
+
+
+
+@*<button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "ShoppingCart")'">1st class £5.00 fee</button>
+<button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "ShoppingCart")'">2nd class </button>
+<button type="submit" class="btn btn-primary" onclick="location.href='@Url.Action("Index", "ShoppingCart")'">Check Out</button>*@
+v
+
+<h2>Deliveries</h2>
+

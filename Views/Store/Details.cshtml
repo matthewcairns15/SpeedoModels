@@ -1,0 +1,28 @@
+﻿@model SpeedoModels.Models.Product
+
+@{
+    ViewBag.Title = "Product - " + Model.productStock;
+}
+
+<h2>@Model.productName</h2>
+
+<p>
+    <img alt="@Model.productName" 
+</p>
+
+<div id="item-details">
+    <p>
+        <
+    </p>
+    <p>
+        <em>Price:</em>
+        @String.Format("{0:F}", Model.Price)
+    </p>
+    <p class="button">
+        @Html.ActionLink("Add to cart", "AddToCart",
+        "ShoppingCart", new { id = Model.productId }, "")
+    </p>
+</div>
+
+
+

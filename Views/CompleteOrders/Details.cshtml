@@ -1,0 +1,122 @@
+﻿@model SpeedoModels.Models.CompleteOrders
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CompleteOrders</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CFirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CFirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CAddress)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CCity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CCity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CState)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CState)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CPostalCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CPostalCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CCountry)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CCountry)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CSaveInfo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CSaveInfo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CDeliveryMethod)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CDeliveryMethod)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CDeliveryDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CDeliveryDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CHasPaid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CHasPaid)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.COrderId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

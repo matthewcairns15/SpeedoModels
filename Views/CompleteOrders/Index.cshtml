@@ -1,0 +1,103 @@
+﻿@model IEnumerable<SpeedoModels.Models.CompleteOrders>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CFirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CLastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CAddress)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CCity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CState)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CPostalCode)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CCountry)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CSaveInfo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CDeliveryMethod)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CDeliveryDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CHasPaid)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CFirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CLastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CAddress)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CCity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CState)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CPostalCode)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CCountry)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CSaveInfo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CDeliveryMethod)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CDeliveryDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CHasPaid)
+        </td>
+   
+    </tr>
+}
+
+</table>

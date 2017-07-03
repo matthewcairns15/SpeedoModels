@@ -1,0 +1,103 @@
+﻿
+@model SpeedoModels.Models.CompleteOrders
+
+@{
+    ViewBag.Title = "DeleteMO";
+}
+
+<h2>Cancel Order</h2>
+
+
+
+<h3>Are you sure you want to cancel this Order?</h3>
+Cancellations can only be done if the order has been made within 48 hours, if the order is less than 48 hours until its delivery date there will be a 25% cancellation fee
+<div>
+    <h4>Order Details</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CFirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CFirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CLastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CLastName)
+        </dd>
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CAddress)*@
+            Address
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CAddress)
+        </dd>
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CCity)*@
+            City
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CCity)
+        </dd>
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CState)*@
+            State
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CState)
+        </dd>
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CPostalCode)*@
+            Post Code
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CPostalCode)
+        </dd>
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CCountry)*@
+            Country
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CCountry)
+        </dd>
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CPhone)*@
+            Phone
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CPhone)
+        </dd>
+        @*<dt>
+                @Html.DisplayNameFor(model => model.Experation)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Experation)
+            </dd>*@
+        @*<dt>
+            Html.DisplayNameFor(model => model.CSaveInfo)
+            Save Info?
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CSaveInfo)
+        </dd>*@
+        <dt>
+            @*@Html.DisplayNameFor(model => model.CEmail)*@
+            Email
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CEmail)
+        </dd>
+    </dl>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Confirm Order Cancellation" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "MyOrders")
+        </div>
+    }
+</div>

@@ -1,0 +1,58 @@
+﻿@model SpeedoModels.Models.ProductBackup
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProductBackup</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.productName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productColour)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productColour)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.productStock)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.productStock)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.productId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

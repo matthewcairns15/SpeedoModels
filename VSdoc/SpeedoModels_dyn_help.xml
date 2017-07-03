@@ -1,0 +1,5027 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="SpeedoModels" Title="SpeedoModels Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.AccessFailedCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E7.html" LinkGroup="SpeedoModels">AccessFailedCount Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.AccountController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000020_overloads--.html" LinkGroup="SpeedoModels">AccountController Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.AccountController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000021_overloads--.html" LinkGroup="SpeedoModels">AccountController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000001F.html" LinkGroup="SpeedoModels">AccountController Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.AddPhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000081_overloads--.html" LinkGroup="SpeedoModels">AddPhoneNumber Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.AddPhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000082_overloads--.html" LinkGroup="SpeedoModels">AddPhoneNumber Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.AddPhoneNumberViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000183.html" LinkGroup="SpeedoModels">AddPhoneNumberViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.AddRole" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000044_overloads--.html" LinkGroup="SpeedoModels">AddRole Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.AddRole" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000045_overloads--.html" LinkGroup="SpeedoModels">AddRole Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.AddToCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E3.html" LinkGroup="SpeedoModels">AddToCart Method {SpeedoModels.Controllers.ShoppingCartController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.AddToCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D4.html" LinkGroup="SpeedoModels">AddToCart Method {SpeedoModels.Models.ShoppingCart}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000161.html" LinkGroup="SpeedoModels">Address Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000122.html" LinkGroup="SpeedoModels">Address Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.Address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A3.html" LinkGroup="SpeedoModels">Address Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Admin" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C7.html" LinkGroup="SpeedoModels">Admin Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000039.html" LinkGroup="SpeedoModels">AdminController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.AdminReport" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000005B.html" LinkGroup="SpeedoModels">AdminReport Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.AdminReportpdf" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000005C.html" LinkGroup="SpeedoModels">AdminReportpdf Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.AlreadyDelivered" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000005A.html" LinkGroup="SpeedoModels">AlreadyDelivered Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration.AppConfigurations" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000018.html" LinkGroup="SpeedoModels">AppConfigurations Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000163.html" LinkGroup="SpeedoModels">ApplicationDbContext Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.ApplicationDbContext" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000164.html" LinkGroup="SpeedoModels">ApplicationDbContext Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbInitializer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000016F.html" LinkGroup="SpeedoModels">ApplicationDbInitializer Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationRoleManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000010.html" LinkGroup="SpeedoModels">ApplicationRoleManager Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationRoleManager.ApplicationRoleManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000011.html" LinkGroup="SpeedoModels">ApplicationRoleManager Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationSignInManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000000C.html" LinkGroup="SpeedoModels">ApplicationSignInManager Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationSignInManager.ApplicationSignInManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000000D.html" LinkGroup="SpeedoModels">ApplicationSignInManager Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000159.html" LinkGroup="SpeedoModels">ApplicationUser Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationUserManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000009.html" LinkGroup="SpeedoModels">ApplicationUserManager Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationUserManager.ApplicationUserManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000000A.html" LinkGroup="SpeedoModels">ApplicationUserManager Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.MvcApplication.Application_Start" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000EA.html" LinkGroup="SpeedoModels">Application_Start Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000012E.html" LinkGroup="SpeedoModels">BraintreeConfiguration Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IndexViewModel.BrowserRemembered" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000176.html" LinkGroup="SpeedoModels">BrowserRemembered Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.BundleConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000001.html" LinkGroup="SpeedoModels">BundleConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000013C.html" LinkGroup="SpeedoModels">CAddress Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CCity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000013D.html" LinkGroup="SpeedoModels">CCity Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CCountry" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000140.html" LinkGroup="SpeedoModels">CCountry Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CDeliveryDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000145.html" LinkGroup="SpeedoModels">CDeliveryDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CDeliveryMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000144.html" LinkGroup="SpeedoModels">CDeliveryMethod Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CEmail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000143.html" LinkGroup="SpeedoModels">CEmail Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CFirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000013A.html" LinkGroup="SpeedoModels">CFirstName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CHasPaid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000146.html" LinkGroup="SpeedoModels">CHasPaid Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CLastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000013B.html" LinkGroup="SpeedoModels">CLastName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.COrderDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000138.html" LinkGroup="SpeedoModels">COrderDate Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000149.html" LinkGroup="SpeedoModels">COrderDetail Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.COrderId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000137.html" LinkGroup="SpeedoModels">COrderId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.CPName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001CE.html" LinkGroup="SpeedoModels">CPName Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.CPPrice" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001CD.html" LinkGroup="SpeedoModels">CPPrice Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CPhone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000141.html" LinkGroup="SpeedoModels">CPhone Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CPostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000013F.html" LinkGroup="SpeedoModels">CPostalCode Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CSaveInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000142.html" LinkGroup="SpeedoModels">CSaveInfo Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CState" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000013E.html" LinkGroup="SpeedoModels">CState Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CTotal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000147.html" LinkGroup="SpeedoModels">CTotal Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.CUsername" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000139.html" LinkGroup="SpeedoModels">CUsername Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C6.html" LinkGroup="SpeedoModels">Cart Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartRemoveViewModel.CartCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001FE.html" LinkGroup="SpeedoModels">CartCount Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.CartId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C8.html" LinkGroup="SpeedoModels">CartId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartViewModel.CartItems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000202.html" LinkGroup="SpeedoModels">CartItems Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.CartSessionKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D1.html" LinkGroup="SpeedoModels">CartSessionKey Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.CartSummary" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E6.html" LinkGroup="SpeedoModels">CartSummary Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartRemoveViewModel.CartTotal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001FD.html" LinkGroup="SpeedoModels">CartTotal Property {SpeedoModels.ViewModel.ShoppingCartRemoveViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartViewModel.CartTotal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000203.html" LinkGroup="SpeedoModels">CartTotal Property {SpeedoModels.ViewModel.ShoppingCartViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.Carts" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000167.html" LinkGroup="SpeedoModels">Carts Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.ChangePassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000088_overloads--.html" LinkGroup="SpeedoModels">ChangePassword Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.ChangePassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000089_overloads--.html" LinkGroup="SpeedoModels">ChangePassword Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ChangePasswordViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000017F.html" LinkGroup="SpeedoModels">ChangePasswordViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000049.html" LinkGroup="SpeedoModels">CheckoutsController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000015C.html" LinkGroup="SpeedoModels">City Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000198.html" LinkGroup="SpeedoModels">City Property {SpeedoModels.Models.Customer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000123.html" LinkGroup="SpeedoModels">City Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A4.html" LinkGroup="SpeedoModels">City Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.City" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000103.html" LinkGroup="SpeedoModels">City Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ResetPasswordViewModel.Code" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000111.html" LinkGroup="SpeedoModels">Code Property {SpeedoModels.Models.ResetPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyCodeViewModel.Code" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F7.html" LinkGroup="SpeedoModels">Code Property {SpeedoModels.Models.VerifyCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyPhoneNumberViewModel.Code" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000186.html" LinkGroup="SpeedoModels">Code Property {SpeedoModels.Models.VerifyPhoneNumberViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Complete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A8.html" LinkGroup="SpeedoModels">Complete Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000135.html" LinkGroup="SpeedoModels">CompleteOrders Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.CompleteOrders" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000016B.html" LinkGroup="SpeedoModels">CompleteOrders Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000055.html" LinkGroup="SpeedoModels">CompleteOrdersController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Startup.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F5.html" LinkGroup="SpeedoModels">Configuration Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Startup.ConfigureAuth" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000016.html" LinkGroup="SpeedoModels">ConfigureAuth Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ConfigureTwoFactorViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000188.html" LinkGroup="SpeedoModels">ConfigureTwoFactorViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ConfirmEmail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000002A.html" LinkGroup="SpeedoModels">ConfirmEmail Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ChangePasswordViewModel.ConfirmPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000182.html" LinkGroup="SpeedoModels">ConfirmPassword Property {SpeedoModels.Models.ChangePasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.ConfirmPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000108.html" LinkGroup="SpeedoModels">ConfirmPassword Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ResetPasswordViewModel.ConfirmPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000110.html" LinkGroup="SpeedoModels">ConfirmPassword Property {SpeedoModels.Models.ResetPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SetPasswordViewModel.ConfirmPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000017E.html" LinkGroup="SpeedoModels">ConfirmPassword Property {SpeedoModels.Models.SetPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController.Contact" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000078.html" LinkGroup="SpeedoModels">Contact Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.Count" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001CA.html" LinkGroup="SpeedoModels">Count Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000015D.html" LinkGroup="SpeedoModels">Country Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000126.html" LinkGroup="SpeedoModels">Country Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A7.html" LinkGroup="SpeedoModels">Country Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.Country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000104.html" LinkGroup="SpeedoModels">Country Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.Courier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000004F.html" LinkGroup="SpeedoModels">Courier Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.CourierCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B8_overloads--.html" LinkGroup="SpeedoModels">CourierCreate Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.CourierCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000BA_overloads--.html" LinkGroup="SpeedoModels">CourierCreate Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000003B_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000062_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000006C_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000009B_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000BE_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000CC_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D6_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000063_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000006D_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000009C_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000CD_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000BF_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D7_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000003C_overloads--.html" LinkGroup="SpeedoModels">Create Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationRoleManager.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000012.html" LinkGroup="SpeedoModels">Create Method {SpeedoModels.ApplicationRoleManager}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationSignInManager.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000000F.html" LinkGroup="SpeedoModels">Create Method {SpeedoModels.ApplicationSignInManager}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationUserManager.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000000B.html" LinkGroup="SpeedoModels">Create Method {SpeedoModels.ApplicationUserManager}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B9.html" LinkGroup="SpeedoModels">Create Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.Create" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000165.html" LinkGroup="SpeedoModels">Create Method {SpeedoModels.Models.ApplicationDbContext}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.CreateCourier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000052.html" LinkGroup="SpeedoModels">CreateCourier Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.CreateFirstClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000050.html" LinkGroup="SpeedoModels">CreateFirstClass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration.CreateGateway" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000132.html" LinkGroup="SpeedoModels">CreateGateway Method {SpeedoModels.Models.BraintreeConfiguration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IBraintreeConfiguration.CreateGateway" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000156.html" LinkGroup="SpeedoModels">CreateGateway Method {SpeedoModels.Models.IBraintreeConfiguration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.CreateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000054.html" LinkGroup="SpeedoModels">CreateOrder Method {SpeedoModels.Controllers.CheckoutsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.CreateOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001DD.html" LinkGroup="SpeedoModels">CreateOrder Method {SpeedoModels.Models.ShoppingCart}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.CreateSecondClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000051.html" LinkGroup="SpeedoModels">CreateSecondClass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ApplicationSignInManager.CreateUserIdentityAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000000E.html" LinkGroup="SpeedoModels">CreateUserIdentityAsync Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ManageLoginsViewModel.CurrentLogins" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000178.html" LinkGroup="SpeedoModels">CurrentLogins Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000192.html" LinkGroup="SpeedoModels">Customer Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.CustomerAddress" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000010A.html" LinkGroup="SpeedoModels">CustomerAddress Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.CustomerId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000193.html" LinkGroup="SpeedoModels">CustomerId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.Customers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000016A.html" LinkGroup="SpeedoModels">Customers Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000069.html" LinkGroup="SpeedoModels">CustomersController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.DateCreated" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001CB.html" LinkGroup="SpeedoModels">DateCreated Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000066.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000070.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.CustomersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000009F.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.OrderBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000AD.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C2.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.ProductBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D0.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.ProductsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Delete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000DA.html" LinkGroup="SpeedoModels">Delete Method {SpeedoModels.Controllers.RefundsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000067.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000071.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.CustomersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A0.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.OrderBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000AF.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C3.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.ProductBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D1.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.ProductsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.DeleteConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000DB.html" LinkGroup="SpeedoModels">DeleteConfirmed Method {SpeedoModels.Controllers.RefundsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartRemoveViewModel.DeleteId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000200.html" LinkGroup="SpeedoModels">DeleteId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.DeleteMO" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000005E.html" LinkGroup="SpeedoModels">DeleteMO Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.DeleteMO" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000AE.html" LinkGroup="SpeedoModels">DeleteMO Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.DeleteMOConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000005F.html" LinkGroup="SpeedoModels">DeleteMOConfirmed Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.DeleteMOConfirmed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B0.html" LinkGroup="SpeedoModels">DeleteMOConfirmed Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.DeleteRole" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000042.html" LinkGroup="SpeedoModels">DeleteRole Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.DeleteUser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000003F.html" LinkGroup="SpeedoModels">DeleteUser Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.DeleteUserRole" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000046.html" LinkGroup="SpeedoModels">DeleteUserRole Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.Delivery" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001CF.html" LinkGroup="SpeedoModels">Delivery Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.DeliveryDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000012B.html" LinkGroup="SpeedoModels">DeliveryDate Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.DeliveryDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001AC.html" LinkGroup="SpeedoModels">DeliveryDate Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.DeliveryMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000012A.html" LinkGroup="SpeedoModels">DeliveryMethod Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.DeliveryMethod" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001AB.html" LinkGroup="SpeedoModels">DeliveryMethod Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000061.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000006B.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.CustomersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000009A.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.OrderBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A6.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000BD.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.ProductBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000CB.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.ProductsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D5.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.RefundsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.StoreController.Details" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E8.html" LinkGroup="SpeedoModels">Details Method {SpeedoModels.Controllers.StoreController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.DisableTwoFactorAuthentication" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000084.html" LinkGroup="SpeedoModels">DisableTwoFactorAuthentication Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000038_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000068_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000072_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000008F_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A1_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B1_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C4_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D2_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Dispose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000DC_overloads--.html" LinkGroup="SpeedoModels">Dispose Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration.AppConfigurations.DomainForApiKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000001B.html" LinkGroup="SpeedoModels">DomainForApiKey Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000065_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000006F_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000064_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000006E_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000009D_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000AB_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C0_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000CE_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D8_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000AC_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000009E_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000CF_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C1_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Edit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D9_overloads--.html" LinkGroup="SpeedoModels">Edit Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.EditRoles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000040_overloads--.html" LinkGroup="SpeedoModels">EditRoles Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.EditRoles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000041_overloads--.html" LinkGroup="SpeedoModels">EditRoles Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.EditUser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000003D_overloads--.html" LinkGroup="SpeedoModels">EditUser Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.EditUser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000003E_overloads--.html" LinkGroup="SpeedoModels">EditUser Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000199.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.Customer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ExternalLoginConfirmationViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000ED.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.ExternalLoginConfirmationViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ForgotPasswordViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000113.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.ForgotPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ForgotViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000FC.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.ForgotViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.LoginViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000FE.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.LoginViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000129.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001AA.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000102.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ResetPasswordViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000010E.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.ResetPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.Email" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E4.html" LinkGroup="SpeedoModels">Email Property {SpeedoModels.Models.UserViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration.AppConfigurations.EmailApiKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000001A.html" LinkGroup="SpeedoModels">EmailApiKey Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.EmailFormModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000151.html" LinkGroup="SpeedoModels">EmailFormModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.EmailService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000005.html" LinkGroup="SpeedoModels">EmailService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.EmptyCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D6.html" LinkGroup="SpeedoModels">EmptyCart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.EnableTwoFactorAuthentication" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000083.html" LinkGroup="SpeedoModels">EnableTwoFactorAuthentication Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.ExportAdminReportToPDF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000005D.html" LinkGroup="SpeedoModels">ExportAdminReportToPDF Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.ExportAdminReportToPDF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000CA.html" LinkGroup="SpeedoModels">ExportAdminReportToPDF Method {SpeedoModels.Controllers.ProductsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ExternalLogin" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000031.html" LinkGroup="SpeedoModels">ExternalLogin Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ExternalLoginCallback" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000034.html" LinkGroup="SpeedoModels">ExternalLoginCallback Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ExternalLoginConfirmation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000035.html" LinkGroup="SpeedoModels">ExternalLoginConfirmation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ExternalLoginConfirmationViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000EC.html" LinkGroup="SpeedoModels">ExternalLoginConfirmationViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ExternalLoginFailure" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000037.html" LinkGroup="SpeedoModels">ExternalLoginFailure Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ExternalLoginListViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000EE.html" LinkGroup="SpeedoModels">ExternalLoginListViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.FactorViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000017A.html" LinkGroup="SpeedoModels">FactorViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.FilterConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000003.html" LinkGroup="SpeedoModels">FilterConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.FirstClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000004D.html" LinkGroup="SpeedoModels">FirstClass Method {SpeedoModels.Controllers.CheckoutsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.FirstClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E4.html" LinkGroup="SpeedoModels">FirstClass Method {SpeedoModels.Controllers.ShoppingCartController}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.FirstClassCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B4_overloads--.html" LinkGroup="SpeedoModels">FirstClassCreate Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.FirstClassCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B5_overloads--.html" LinkGroup="SpeedoModels">FirstClassCreate Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.FirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000015A.html" LinkGroup="SpeedoModels">FirstName Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.FirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000194.html" LinkGroup="SpeedoModels">FirstName Property {SpeedoModels.Models.Customer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.FirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000120.html" LinkGroup="SpeedoModels">FirstName Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.FirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A1.html" LinkGroup="SpeedoModels">FirstName Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.FirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000010B.html" LinkGroup="SpeedoModels">FirstName Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.FirstName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E2.html" LinkGroup="SpeedoModels">FirstName Property {SpeedoModels.Models.UserViewModel}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ForgotPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000002B_overloads--.html" LinkGroup="SpeedoModels">ForgotPassword Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ForgotPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000002C_overloads--.html" LinkGroup="SpeedoModels">ForgotPassword Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ForgotPasswordConfirmation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000002D.html" LinkGroup="SpeedoModels">ForgotPasswordConfirmation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ForgotPasswordViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000112.html" LinkGroup="SpeedoModels">ForgotPasswordViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ForgotViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000FB.html" LinkGroup="SpeedoModels">ForgotViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration.AppConfigurations.FromEmail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000001D.html" LinkGroup="SpeedoModels">FromEmail Property {SpeedoModels.Configuration.AppConfigurations}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.EmailFormModel.FromEmail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000153.html" LinkGroup="SpeedoModels">FromEmail Property {SpeedoModels.Models.EmailFormModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration.AppConfigurations.FromName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000001C.html" LinkGroup="SpeedoModels">FromName Property {SpeedoModels.Configuration.AppConfigurations}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.EmailFormModel.FromName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000152.html" LinkGroup="SpeedoModels">FromName Property {SpeedoModels.Models.EmailFormModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.GenerateUserIdentityAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000162.html" LinkGroup="SpeedoModels">GenerateUserIdentityAsync Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D3_overloads--.html" LinkGroup="SpeedoModels">GetCart Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D2_overloads--.html" LinkGroup="SpeedoModels">GetCart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetCartId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001DE.html" LinkGroup="SpeedoModels">GetCartId Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetCartItems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D7.html" LinkGroup="SpeedoModels">GetCartItems Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration.GetConfigurationSetting" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000133.html" LinkGroup="SpeedoModels">GetConfigurationSetting Method {SpeedoModels.Models.BraintreeConfiguration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IBraintreeConfiguration.GetConfigurationSetting" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000157.html" LinkGroup="SpeedoModels">GetConfigurationSetting Method {SpeedoModels.Models.IBraintreeConfiguration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D8.html" LinkGroup="SpeedoModels">GetCount Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetCourier" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001DC.html" LinkGroup="SpeedoModels">GetCourier Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetFirstClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001DA.html" LinkGroup="SpeedoModels">GetFirstClass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration.GetGateway" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000134.html" LinkGroup="SpeedoModels">GetGateway Method {SpeedoModels.Models.BraintreeConfiguration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IBraintreeConfiguration.GetGateway" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000158.html" LinkGroup="SpeedoModels">GetGateway Method {SpeedoModels.Models.IBraintreeConfiguration}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetSecondClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001DB.html" LinkGroup="SpeedoModels">GetSecondClass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.GetTotal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D9.html" LinkGroup="SpeedoModels">GetTotal Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.HasPaid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000012C.html" LinkGroup="SpeedoModels">HasPaid Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.HasPaid" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001AD.html" LinkGroup="SpeedoModels">HasPaid Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IndexViewModel.HasPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000172.html" LinkGroup="SpeedoModels">HasPassword Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000073.html" LinkGroup="SpeedoModels">HomeController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IBraintreeConfiguration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000155.html" LinkGroup="SpeedoModels">IBraintreeConfiguration Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.ID" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C7.html" LinkGroup="SpeedoModels">ID Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleViewModel.Id" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F0.html" LinkGroup="SpeedoModels">Id Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000003A.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.AdminController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000056.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CustomersController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000006A.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.CustomersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000074.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.HomeController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000007F.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.ManageController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000099.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.OrderBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A3.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000BC.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.ProductBackupsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C6.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.ProductsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D4.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.RefundsController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.Index" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000DE.html" LinkGroup="SpeedoModels">Index Method {SpeedoModels.Controllers.ShoppingCartController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IndexViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000171.html" LinkGroup="SpeedoModels">IndexViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.Indexnocheckout" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000DF.html" LinkGroup="SpeedoModels">Indexnocheckout Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartRemoveViewModel.ItemCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001FF.html" LinkGroup="SpeedoModels">ItemCount Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.ItemId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000014C.html" LinkGroup="SpeedoModels">ItemId Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.ItemId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B4.html" LinkGroup="SpeedoModels">ItemId Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.LastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000015B.html" LinkGroup="SpeedoModels">LastName Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.LastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000195.html" LinkGroup="SpeedoModels">LastName Property {SpeedoModels.Models.Customer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.LastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000121.html" LinkGroup="SpeedoModels">LastName Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.LastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A2.html" LinkGroup="SpeedoModels">LastName Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.LastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000010C.html" LinkGroup="SpeedoModels">LastName Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.LastName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E3.html" LinkGroup="SpeedoModels">LastName Property {SpeedoModels.Models.UserViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.LinkLogin" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000008D.html" LinkGroup="SpeedoModels">LinkLogin Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.LinkLoginCallback" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000008E.html" LinkGroup="SpeedoModels">LinkLoginCallback Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.LockoutEndDateUtc" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E6.html" LinkGroup="SpeedoModels">LockoutEndDateUtc Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.LogOff" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000036.html" LinkGroup="SpeedoModels">LogOff Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000025_overloads--.html" LinkGroup="SpeedoModels">Login Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.Login" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000024_overloads--.html" LinkGroup="SpeedoModels">Login Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.LoginViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000FD.html" LinkGroup="SpeedoModels">LoginViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IndexViewModel.Logins" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000173.html" LinkGroup="SpeedoModels">Logins Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.LowStockReport" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C8.html" LinkGroup="SpeedoModels">LowStockReport Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController.LowStockReportPDF" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C9.html" LinkGroup="SpeedoModels">LowStockReportPDF Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.ManageController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000007B_overloads--.html" LinkGroup="SpeedoModels">ManageController Constructor</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.ManageController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000007C_overloads--.html" LinkGroup="SpeedoModels">ManageController Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000007A.html" LinkGroup="SpeedoModels">ManageController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.ManageLogins" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000008C.html" LinkGroup="SpeedoModels">ManageLogins Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ManageLoginsViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000177.html" LinkGroup="SpeedoModels">ManageLoginsViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.ManageMessageId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000090.html" LinkGroup="SpeedoModels">ManageMessageId Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration.MerchantId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000012F.html" LinkGroup="SpeedoModels">MerchantId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.EmailFormModel.Message" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000154.html" LinkGroup="SpeedoModels">Message Property {SpeedoModels.Models.EmailFormModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartRemoveViewModel.Message" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001FC.html" LinkGroup="SpeedoModels">Message Property {SpeedoModels.ViewModel.ShoppingCartRemoveViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.MigrateCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001DF.html" LinkGroup="SpeedoModels">MigrateCart Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.MvcApplication" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E9.html" LinkGroup="SpeedoModels">MvcApplication Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.MyOrders" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000060.html" LinkGroup="SpeedoModels">MyOrders Method {SpeedoModels.Controllers.CompleteOrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.MyOrders" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A5.html" LinkGroup="SpeedoModels">MyOrders Method {SpeedoModels.Controllers.OrdersController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000004C.html" LinkGroup="SpeedoModels">New Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ChangePasswordViewModel.NewPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000181.html" LinkGroup="SpeedoModels">NewPassword Property {SpeedoModels.Models.ChangePasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SetPasswordViewModel.NewPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000017D.html" LinkGroup="SpeedoModels">NewPassword Property {SpeedoModels.Models.SetPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.AddPhoneNumberViewModel.Number" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000184.html" LinkGroup="SpeedoModels">Number Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ChangePasswordViewModel.OldPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000180.html" LinkGroup="SpeedoModels">OldPassword Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000019D.html" LinkGroup="SpeedoModels">Order Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.Order" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000150.html" LinkGroup="SpeedoModels">Order Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.Order" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B8.html" LinkGroup="SpeedoModels">Order Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000011B.html" LinkGroup="SpeedoModels">OrderBackup Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.OrderBackups" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000016D.html" LinkGroup="SpeedoModels">OrderBackups Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrderBackupsController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000098.html" LinkGroup="SpeedoModels">OrderBackupsController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModels.OrderDateGroup.OrderCount" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F9.html" LinkGroup="SpeedoModels">OrderCount Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.OrderDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000011E.html" LinkGroup="SpeedoModels">OrderDate Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.OrderDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000019F.html" LinkGroup="SpeedoModels">OrderDate Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModels.OrderDateGroup.OrderDate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F8.html" LinkGroup="SpeedoModels">OrderDate Property {SpeedoModels.ViewModels.OrderDateGroup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModels.OrderDateGroup" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F7.html" LinkGroup="SpeedoModels">OrderDateGroup Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B1.html" LinkGroup="SpeedoModels">OrderDetail Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.OrderDetailId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000014A.html" LinkGroup="SpeedoModels">OrderDetailId Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.OrderDetailId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B2.html" LinkGroup="SpeedoModels">OrderDetailId Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.OrderDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000169.html" LinkGroup="SpeedoModels">OrderDetails Property {SpeedoModels.Models.ApplicationDbContext}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.OrderDetails" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001AF.html" LinkGroup="SpeedoModels">OrderDetails Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration.AppConfigurations.OrderEmail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000019.html" LinkGroup="SpeedoModels">OrderEmail Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.OrderId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000014B.html" LinkGroup="SpeedoModels">OrderId Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.OrderId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000011D.html" LinkGroup="SpeedoModels">OrderId Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.OrderId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B3.html" LinkGroup="SpeedoModels">OrderId Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.OrderId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000019E.html" LinkGroup="SpeedoModels">OrderId Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.Orders" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000168.html" LinkGroup="SpeedoModels">Orders Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A2.html" LinkGroup="SpeedoModels">OrdersController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ManageLoginsViewModel.OtherLogins" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000179.html" LinkGroup="SpeedoModels">OtherLogins Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.OutofStock" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E1.html" LinkGroup="SpeedoModels">OutofStock Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.LoginViewModel.Password" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000FF.html" LinkGroup="SpeedoModels">Password Property {SpeedoModels.Models.LoginViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.Password" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000107.html" LinkGroup="SpeedoModels">Password Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ResetPasswordViewModel.Password" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000010F.html" LinkGroup="SpeedoModels">Password Property {SpeedoModels.Models.ResetPasswordViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.Password" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E5.html" LinkGroup="SpeedoModels">Password Property {SpeedoModels.Models.UserViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.PaymentChoice" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A7.html" LinkGroup="SpeedoModels">PaymentChoice Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.Phone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000015F.html" LinkGroup="SpeedoModels">Phone Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.Phone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000127.html" LinkGroup="SpeedoModels">Phone Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.Phone" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A8.html" LinkGroup="SpeedoModels">Phone Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.PhoneNum" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000109.html" LinkGroup="SpeedoModels">PhoneNum Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IndexViewModel.PhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000174.html" LinkGroup="SpeedoModels">PhoneNumber Property {SpeedoModels.Models.IndexViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.PhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E8.html" LinkGroup="SpeedoModels">PhoneNumber Property {SpeedoModels.Models.UserViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyPhoneNumberViewModel.PhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000187.html" LinkGroup="SpeedoModels">PhoneNumber Property {SpeedoModels.Models.VerifyPhoneNumberViewModel}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Pickup" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B2_overloads--.html" LinkGroup="SpeedoModels">Pickup Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.Pickup" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B3_overloads--.html" LinkGroup="SpeedoModels">Pickup Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000160.html" LinkGroup="SpeedoModels">PostalCode Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000196.html" LinkGroup="SpeedoModels">PostalCode Property {SpeedoModels.Models.Customer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000125.html" LinkGroup="SpeedoModels">PostalCode Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A6.html" LinkGroup="SpeedoModels">PostalCode Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.PostalCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000106.html" LinkGroup="SpeedoModels">PostalCode Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup.Price" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000118.html" LinkGroup="SpeedoModels">Price Property {SpeedoModels.Models.ProductBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product.Price" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001BD.html" LinkGroup="SpeedoModels">Price Property {SpeedoModels.Models.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration.PrivateKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000131.html" LinkGroup="SpeedoModels">PrivateKey Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B9.html" LinkGroup="SpeedoModels">Product Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000014F.html" LinkGroup="SpeedoModels">Product Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001CC.html" LinkGroup="SpeedoModels">Product Property {SpeedoModels.Models.Cart}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.Product" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B7.html" LinkGroup="SpeedoModels">Product Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000114.html" LinkGroup="SpeedoModels">ProductBackup Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.ProductBackups" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000016E.html" LinkGroup="SpeedoModels">ProductBackups Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductBackupsController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000BB.html" LinkGroup="SpeedoModels">ProductBackupsController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Cart.ProductId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C9.html" LinkGroup="SpeedoModels">ProductId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000018B.html" LinkGroup="SpeedoModels">ProductViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.Products" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000166.html" LinkGroup="SpeedoModels">Products Property {SpeedoModels.Models.ApplicationDbContext}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductViewModel.Products" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000018C.html" LinkGroup="SpeedoModels">Products Property {SpeedoModels.Models.ProductViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ProductsController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000C5.html" LinkGroup="SpeedoModels">ProductsController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyCodeViewModel.Provider" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F6.html" LinkGroup="SpeedoModels">Provider Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ConfigureTwoFactorViewModel.Providers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000018A.html" LinkGroup="SpeedoModels">Providers Property {SpeedoModels.Models.ConfigureTwoFactorViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SendCodeViewModel.Providers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F2.html" LinkGroup="SpeedoModels">Providers Property {SpeedoModels.Models.SendCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.BraintreeConfiguration.PublicKey" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000130.html" LinkGroup="SpeedoModels">PublicKey Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.FactorViewModel.Purpose" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000017B.html" LinkGroup="SpeedoModels">Purpose Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.Quantity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000014D.html" LinkGroup="SpeedoModels">Quantity Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.Quantity" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B5.html" LinkGroup="SpeedoModels">Quantity Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleNames.ROLE_ADMINISTRATOR" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C1.html" LinkGroup="SpeedoModels">ROLE_ADMINISTRATOR Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleNames.ROLE_AssistantManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C2.html" LinkGroup="SpeedoModels">ROLE_AssistantManager Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleNames.ROLE_CUSTOMER" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C3.html" LinkGroup="SpeedoModels">ROLE_CUSTOMER Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleNames.ROLE_OrdersClerk" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C4.html" LinkGroup="SpeedoModels">ROLE_OrdersClerk Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleNames.ROLE_StoreManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C5.html" LinkGroup="SpeedoModels">ROLE_StoreManager Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Refunds.RefundId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000018E.html" LinkGroup="SpeedoModels">RefundId Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Refunds.RefundTotal" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000191.html" LinkGroup="SpeedoModels">RefundTotal Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Refundnotification" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000058.html" LinkGroup="SpeedoModels">Refundnotification Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Refunds" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000018D.html" LinkGroup="SpeedoModels">Refunds Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbContext.Refunds" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000016C.html" LinkGroup="SpeedoModels">Refunds Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.RefundsController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000D3.html" LinkGroup="SpeedoModels">RefundsController Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.Register" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000028_overloads--.html" LinkGroup="SpeedoModels">Register Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.Register" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000029_overloads--.html" LinkGroup="SpeedoModels">Register Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.BundleConfig.RegisterBundles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000002.html" LinkGroup="SpeedoModels">RegisterBundles Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.FilterConfig.RegisterGlobalFilters" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000004.html" LinkGroup="SpeedoModels">RegisterGlobalFilters Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.RouteConfig.RegisterRoutes" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000014.html" LinkGroup="SpeedoModels">RegisterRoutes Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000101.html" LinkGroup="SpeedoModels">RegisterViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyCodeViewModel.RememberBrowser" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F9.html" LinkGroup="SpeedoModels">RememberBrowser Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.LoginViewModel.RememberMe" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000100.html" LinkGroup="SpeedoModels">RememberMe Property {SpeedoModels.Models.LoginViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SendCodeViewModel.RememberMe" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F4.html" LinkGroup="SpeedoModels">RememberMe Property {SpeedoModels.Models.SendCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyCodeViewModel.RememberMe" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000FA.html" LinkGroup="SpeedoModels">RememberMe Property {SpeedoModels.Models.VerifyCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.RemoveFromCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E5.html" LinkGroup="SpeedoModels">RemoveFromCart Method {SpeedoModels.Controllers.ShoppingCartController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart.RemoveFromCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D5.html" LinkGroup="SpeedoModels">RemoveFromCart Method {SpeedoModels.Models.ShoppingCart}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.RemoveLogin" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000080.html" LinkGroup="SpeedoModels">RemoveLogin Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.RemovePhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000087.html" LinkGroup="SpeedoModels">RemovePhoneNumber Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ResetPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000002F_overloads--.html" LinkGroup="SpeedoModels">ResetPassword Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ResetPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000002E_overloads--.html" LinkGroup="SpeedoModels">ResetPassword Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.ResetPasswordConfirmation" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000030.html" LinkGroup="SpeedoModels">ResetPasswordConfirmation Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ResetPasswordViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000010D.html" LinkGroup="SpeedoModels">ResetPasswordViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ExternalLoginListViewModel.ReturnUrl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000EF.html" LinkGroup="SpeedoModels">ReturnUrl Property {SpeedoModels.Models.ExternalLoginListViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SendCodeViewModel.ReturnUrl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F3.html" LinkGroup="SpeedoModels">ReturnUrl Property {SpeedoModels.Models.SendCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyCodeViewModel.ReturnUrl" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F8.html" LinkGroup="SpeedoModels">ReturnUrl Property {SpeedoModels.Models.VerifyCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.RoleManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000048.html" LinkGroup="SpeedoModels">RoleManager Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleViewModel.RoleName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F1.html" LinkGroup="SpeedoModels">RoleName Property {SpeedoModels.Models.RoleViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserRoleViewModel.RoleName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001EE.html" LinkGroup="SpeedoModels">RoleName Property {SpeedoModels.Models.UserRoleViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserRolesViewModel.RoleName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001EB.html" LinkGroup="SpeedoModels">RoleName Property {SpeedoModels.Models.UserRolesViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleNames" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001C0.html" LinkGroup="SpeedoModels">RoleNames Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RoleViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001EF.html" LinkGroup="SpeedoModels">RoleViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.Roles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E9.html" LinkGroup="SpeedoModels">Roles Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.RouteConfig" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000013.html" LinkGroup="SpeedoModels">RouteConfig Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.SaveInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000128.html" LinkGroup="SpeedoModels">SaveInfo Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.SaveInfo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A9.html" LinkGroup="SpeedoModels">SaveInfo Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.SecondClass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000004E.html" LinkGroup="SpeedoModels">SecondClass Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.SecondClassCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B6_overloads--.html" LinkGroup="SpeedoModels">SecondClassCreate Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.SecondClassCreate" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000B7_overloads--.html" LinkGroup="SpeedoModels">SecondClassCreate Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationDbInitializer.Seed" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000170_overloads--.html" LinkGroup="SpeedoModels">Seed Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ConfigureTwoFactorViewModel.SelectedProvider" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000189.html" LinkGroup="SpeedoModels">SelectedProvider Property {SpeedoModels.Models.ConfigureTwoFactorViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SendCodeViewModel.SelectedProvider" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F1.html" LinkGroup="SpeedoModels">SelectedProvider Property {SpeedoModels.Models.SendCodeViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.EmailService.SendAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000006.html" LinkGroup="SpeedoModels">SendAsync Method {SpeedoModels.EmailService}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.SmsService.SendAsync" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000008.html" LinkGroup="SpeedoModels">SendAsync Method {SpeedoModels.SmsService}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.SendCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000033_overloads--.html" LinkGroup="SpeedoModels">SendCode Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.SendCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000032_overloads--.html" LinkGroup="SpeedoModels">SendCode Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SendCodeViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F0.html" LinkGroup="SpeedoModels">SendCodeViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController.Sent" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000079.html" LinkGroup="SpeedoModels">Sent Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.SetPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000008A_overloads--.html" LinkGroup="SpeedoModels">SetPassword Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.SetPassword" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000008B_overloads--.html" LinkGroup="SpeedoModels">SetPassword Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.SetPasswordViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000017C.html" LinkGroup="SpeedoModels">SetPasswordViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ShoppingCart" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001D0.html" LinkGroup="SpeedoModels">ShoppingCart Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000DD.html" LinkGroup="SpeedoModels">ShoppingCartController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartRemoveViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001FB.html" LinkGroup="SpeedoModels">ShoppingCartRemoveViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel.ShoppingCartViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000201.html" LinkGroup="SpeedoModels">ShoppingCartViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.Show" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000053.html" LinkGroup="SpeedoModels">Show Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.SignInManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000022.html" LinkGroup="SpeedoModels">SignInManager Property {SpeedoModels.Controllers.AccountController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.SignInManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000007D.html" LinkGroup="SpeedoModels">SignInManager Property {SpeedoModels.Controllers.ManageController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.SmsService" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000007.html" LinkGroup="SpeedoModels">SmsService Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.Somethingwentwrong" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000059.html" LinkGroup="SpeedoModels">Somethingwentwrong Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000000.html" LinkGroup="SpeedoModels">SpeedoModels Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000204.html" LinkGroup="SpeedoModels">SpeedoModels Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Configuration" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000017.html" LinkGroup="SpeedoModels">SpeedoModels.Configuration Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000001E.html" LinkGroup="SpeedoModels">SpeedoModels.Controllers Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000EB.html" LinkGroup="SpeedoModels">SpeedoModels.Models Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001FA.html" LinkGroup="SpeedoModels">SpeedoModels.ViewModel Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.ViewModels" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F6.html" LinkGroup="SpeedoModels">SpeedoModels.ViewModels Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Startup" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000015.html" LinkGroup="SpeedoModels">Startup Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ApplicationUser.State" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000015E.html" LinkGroup="SpeedoModels">State Property {SpeedoModels.Models.ApplicationUser}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.State" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000197.html" LinkGroup="SpeedoModels">State Property {SpeedoModels.Models.Customer}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.State" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000124.html" LinkGroup="SpeedoModels">State Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.State" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A5.html" LinkGroup="SpeedoModels">State Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.RegisterViewModel.State" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000105.html" LinkGroup="SpeedoModels">State Property {SpeedoModels.Models.RegisterViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.StoreController" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E7.html" LinkGroup="SpeedoModels">StoreController Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.TelephoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000019C.html" LinkGroup="SpeedoModels">TelephoneNumber Property</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000148_overloads--.html" LinkGroup="SpeedoModels">ToString Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B0_overloads--.html" LinkGroup="SpeedoModels">ToString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.ToomanyItems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E0.html" LinkGroup="SpeedoModels">ToomanyItems Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.Total" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000012D.html" LinkGroup="SpeedoModels">Total Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.Total" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001AE.html" LinkGroup="SpeedoModels">Total Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.IndexViewModel.TwoFactor" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000175.html" LinkGroup="SpeedoModels">TwoFactor Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.COrderDetail.UnitPrice" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000014E.html" LinkGroup="SpeedoModels">UnitPrice Property {SpeedoModels.Models.COrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderDetail.UnitPrice" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001B6.html" LinkGroup="SpeedoModels">UnitPrice Property {SpeedoModels.Models.OrderDetail}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserAndRolesViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F2.html" LinkGroup="SpeedoModels">UserAndRolesViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Refunds.UserEmail" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000190.html" LinkGroup="SpeedoModels">UserEmail Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.UserManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000023.html" LinkGroup="SpeedoModels">UserManager Property {SpeedoModels.Controllers.AccountController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.UserManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000047.html" LinkGroup="SpeedoModels">UserManager Property {SpeedoModels.Controllers.AdminController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.UserManager" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000007E.html" LinkGroup="SpeedoModels">UserManager Property {SpeedoModels.Controllers.ManageController}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserAndRolesViewModel.UserName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F3.html" LinkGroup="SpeedoModels">UserName Property {SpeedoModels.Models.UserAndRolesViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserRoleViewModel.UserName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001ED.html" LinkGroup="SpeedoModels">UserName Property {SpeedoModels.Models.UserRoleViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel.UserName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E1.html" LinkGroup="SpeedoModels">UserName Property {SpeedoModels.Models.UserViewModel}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserRoleViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001EC.html" LinkGroup="SpeedoModels">UserRoleViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserAndRolesViewModel.UserRoles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001F4.html" LinkGroup="SpeedoModels">UserRoles Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserRolesViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001EA.html" LinkGroup="SpeedoModels">UserRolesViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.UserViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001E0.html" LinkGroup="SpeedoModels">UserViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.Username" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000011F.html" LinkGroup="SpeedoModels">Username Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Order.Username" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001A0.html" LinkGroup="SpeedoModels">Username Property {SpeedoModels.Models.Order}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.VerifyCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000026_overloads--.html" LinkGroup="SpeedoModels">VerifyCode Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AccountController.VerifyCode" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000027_overloads--.html" LinkGroup="SpeedoModels">VerifyCode Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyCodeViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000F5.html" LinkGroup="SpeedoModels">VerifyCodeViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.VerifyPhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000085_overloads--.html" LinkGroup="SpeedoModels">VerifyPhoneNumber Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ManageController.VerifyPhoneNumber" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000086_overloads--.html" LinkGroup="SpeedoModels">VerifyPhoneNumber Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.VerifyPhoneNumberViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000185.html" LinkGroup="SpeedoModels">VerifyPhoneNumberViewModel Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.AdminController.ViewAllRoles" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000043.html" LinkGroup="SpeedoModels">ViewAllRoles Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController.ViewItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000077.html" LinkGroup="SpeedoModels">ViewItem Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController.ViewModel" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000075.html" LinkGroup="SpeedoModels">ViewModel Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.address" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000019B.html" LinkGroup="SpeedoModels">address Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CompleteOrdersController.cannotrefund" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000057.html" LinkGroup="SpeedoModels">cannotrefund Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.config" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000004A.html" LinkGroup="SpeedoModels">config Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Customer.country" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000019A.html" LinkGroup="SpeedoModels">country Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.HomeController.createOrder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000076.html" LinkGroup="SpeedoModels">createOrder Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.ShoppingCartController.minimum" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000E2.html" LinkGroup="SpeedoModels">minimum Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.noorder" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A4.html" LinkGroup="SpeedoModels">noorder Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup.productColour" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000119.html" LinkGroup="SpeedoModels">productColour Property {SpeedoModels.Models.ProductBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product.productColour" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001BE.html" LinkGroup="SpeedoModels">productColour Property {SpeedoModels.Models.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup.productDescription" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000117.html" LinkGroup="SpeedoModels">productDescription Property {SpeedoModels.Models.ProductBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product.productDescription" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001BC.html" LinkGroup="SpeedoModels">productDescription Property {SpeedoModels.Models.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup.productId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000115.html" LinkGroup="SpeedoModels">productId Property {SpeedoModels.Models.ProductBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product.productId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001BA.html" LinkGroup="SpeedoModels">productId Property {SpeedoModels.Models.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup.productName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000116.html" LinkGroup="SpeedoModels">productName Property {SpeedoModels.Models.ProductBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product.productName" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001BB.html" LinkGroup="SpeedoModels">productName Property {SpeedoModels.Models.Product}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.ProductBackup.productStock" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000011A.html" LinkGroup="SpeedoModels">productStock Property {SpeedoModels.Models.ProductBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Product.productStock" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000001BF.html" LinkGroup="SpeedoModels">productStock Property {SpeedoModels.Models.Product}</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000A9_overloads--.html" LinkGroup="SpeedoModels">toComplete Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.OrdersController.toComplete" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_00000000000000AA_overloads--.html" LinkGroup="SpeedoModels">toComplete Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.CompleteOrders.transactionId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_0000000000000136.html" LinkGroup="SpeedoModels">transactionId Property {SpeedoModels.Models.CompleteOrders}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.OrderBackup.transactionId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000011C.html" LinkGroup="SpeedoModels">transactionId Property {SpeedoModels.Models.OrderBackup}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Models.Refunds.transactionId" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000018F.html" LinkGroup="SpeedoModels">transactionId Property {SpeedoModels.Models.Refunds}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="SpeedoModels.Controllers.CheckoutsController.transactionSuccessStatuses" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:SpeedoModels.chm::/topic_000000000000004B.html" LinkGroup="SpeedoModels">transactionSuccessStatuses Field</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

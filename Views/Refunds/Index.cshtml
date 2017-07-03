@@ -1,0 +1,50 @@
+﻿@model IEnumerable<SpeedoModels.Models.Refunds>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<h2>Index</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.transactionId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UserEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RefundTotal)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.transactionId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RefundTotal)
+        </td>
+        <td>
+       
+            @Html.ActionLink("Delete", "Delete", new { id=item.RefundId })
+        </td>
+    </tr>
+}
+
+</table>

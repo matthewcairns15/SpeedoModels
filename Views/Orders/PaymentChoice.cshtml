@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "PaymentChoice";
+}
+
+<h2>PaymentChoice</h2>
+
+      Choose Delivery Method (pick up will be paid in store)
+<br />
+
+ @*//Make a variable that equals either first, second class ect for the order and then make that variable equal the order delivery variable*@
+
+@*Next Day Delivery
+<br />
+@Html.ActionLink("First Class Fee £5.00", "FirstClass", "ShoppingCart");
+<br />
+After 3 Days
+@Html.ActionLink("Second Class", "AddToCart", "ShoppingCart");
+<br />
+Same Day Delivery 
+</br>
+@Html.ActionLink("Courier Fee £10", "AddToCart", "ShoppingCart");
+<br />
+Pick up in store at your earliest convenience
+</br>
+@Html.ActionLink("Pick up", "Create", "Orders");
+<br />*@
+
+
+
+<button type="button" class="btn btn-success btn-sm" onclick="location.href='@Url.Action("New", "Checkouts")'">
+    Check Out &raquo;</button>

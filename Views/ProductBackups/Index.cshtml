@@ -1,0 +1,63 @@
+﻿@model IEnumerable<SpeedoModels.Models.ProductBackup>
+
+@{
+    ViewBag.Title = "Index";
+}
+<br />
+<br />
+<br />
+<br />
+<br /><br />
+<br />
+<br />
+
+
+<h2>Products Backup</h2>
+
+<br />
+<br />
+<br />
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.productName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productDescription)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productColour)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.productStock)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.productName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productDescription)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productColour)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.productStock)
+        </td>
+  
+    </tr>
+}
+
+</table>

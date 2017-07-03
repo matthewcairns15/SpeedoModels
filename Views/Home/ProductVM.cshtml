@@ -1,0 +1,34 @@
+﻿@using SpeedoModels.Models
+
+@{
+    ViewBag.Title = "ProductVM";
+}
+
+<h2>ProductVM</h2>
+
+<table class="table">
+
+    <tr>
+        <th>ProductId</th>
+        <th>Product Name</th>
+        <th>Product Description</th>
+        <th>Price</th>
+        <th>Product colour</th>
+       
+    </tr>
+
+    @foreach (Product product in Model.Products)
+    {
+        <tr>
+            
+            <td>@product.productName</td>
+            <td>@product.productDescription </td>
+            <td>@product.productPrice </td>
+            <td>@product.productColour</td>
+     
+       </tr>
+
+    }
+</table>
+
+}

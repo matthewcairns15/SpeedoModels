@@ -1,0 +1,122 @@
+﻿
+
+@model IEnumerable<SpeedoModels.Models.CompleteOrders>
+
+
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "MyOrders";
+}
+
+<h2>My Orders</h2>
+
+
+@if (User.IsInRole("Administrator"))
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+<table class="table table-striped table-hover">
+    <tr>
+        <th>
+            @Html.ActionLink("First Name", "MyOrders", new { sortOrder = ViewBag.NameSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Last Name
+        </th>
+        <th>
+            @Html.ActionLink("Order Total", "MyOrders", new { sortOrder = ViewBag.PriceSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            State
+        </th>
+        <th>
+            Postal Code
+        </th>
+        <th>
+            Country
+        </th>
+        <th>
+            Phone
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Delivery Method
+        </th>
+        <th>
+            Delivery Date
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.CFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CTotal)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CCity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CState)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPostalCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CCountry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CDeliveryMethod)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CDeliveryDate)
+            </td>
+            @if (User.IsInRole("Administrator"))
+            {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.COrderId }) |
+                    @*@Html.ActionLink("Details", "Details", new { id = item.OrderId }) |*@
+                    @Html.ActionLink("Delete", "DeleteMO", new { id = item.COrderId })
+                </td>
+
+            }
+            <td>
+                @Html.ActionLink("Cancel Order", "DeleteMO", new { id = item.COrderId })
+
+
+            </td>
+
+
+        </tr>
+    }
+
+</table>
+<br />

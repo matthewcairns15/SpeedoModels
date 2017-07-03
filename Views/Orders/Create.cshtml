@@ -1,0 +1,82 @@
+﻿@model SpeedoModels.Models.Order
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Choose Your Delivery Method</h2>
+
+
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+
+
+
+    <h4>Fees will be automatically added to the total price</h4> 
+
+    <label>
+        @*<input type="radio" name="radios" id="radios-3" value="4">*@
+        <button type="button" class="btn btn-success btn-sm" onclick="location.href='@Url.Action("FirstClassCreate", "Orders")'">
+            First Class £5.00 fee &raquo;
+        </button>
+
+    </label>
+
+
+    <label>
+        @*<input type="radio" name="radios" id="radios-3" value="4">*@
+        <button type="button" class="btn btn-success btn-sm" onclick="location.href='@Url.Action("SecondClassCreate", "Orders")'">
+            Second Class £2.00 fee&raquo;
+        </button>
+
+    </label>
+
+    <label>
+        @*<input type="radio" name="radios" id="radios-3" value="4">*@
+        <button type="button" class="btn btn-success btn-sm" onclick="location.href='@Url.Action("CourierCreate", "Orders")'">
+            Courier fee £10.00 &raquo;
+        </button>
+
+    </label>
+
+        <label>
+            @*<input type="radio" name="radios" id="radios-3" value="4">*@
+<button type="button" class="btn btn-success btn-sm" onclick="location.href='@Url.Action("Pickup", "Orders")'">
+    Pick up from store, pay in store &raquo;</button>
+
+        </label>
+
+
+  
+
+
+    //Make a variable called delivery and make it equal the order.delivery
+
+
+
+
+        @*<div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type = "submit" value="Create" class="btn btn-default"  />
+            </div>
+        </div>*@
+
+}
+
+@*<input type="button" value="Create" onclick="location.href='<%: Url.Action(" Create", "Orders" ) %>'" />*@
+
+
+    @*</div>*@
+@*}*@
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
